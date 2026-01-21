@@ -1,31 +1,65 @@
 🎓 School Management System
-A complete web-based school management system designed to simplify academic and administrative operations for secondary schools.
-📌 Features
+
+A professional web-based School Management System designed to efficiently manage academic and administrative operations in secondary schools.
+
+📖 Overview
+
+This project provides a complete digital solution for managing schools, including students, teachers, subjects, grades, attendance, and notifications.
+It simplifies daily operations, improves communication, and ensures accurate academic tracking.
+
+✨ Features
 🏫 Institution Management
-Manage students, teachers, subjects, and specializations
-Academic year and class organization
+
+Manage students, teachers, and academic years
+
+Manage specializations and subjects
+
 Entry and exit tracking
-Announcements and news management
-Advanced system settings with data locking
-Detailed reports and statistics
+
+Publish announcements and news
+
+Advanced system settings
+
+Detailed statistics and reports
+
 👨‍🏫 Teacher Panel
+
 View assigned subjects
-Record student grades
-Attendance management
+
+Record grades
+
+Manage attendance
+
 Automatic average calculation
+
 View student lists
+
 👨‍🎓 Student Panel
-view grades and overall average
+
+View grades and overall average
+
 Attendance history
+
 Receive notifications
+
 View announcements
+
 🔔 Notification System
+
 Automatic absence alerts
+
 Low-grade notifications
+
 Read / unread status tracking
+
 🛠️ Technologies Used
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
+
 Server: Apache (XAMPP / WAMP)
+
 Version Control: Git & GitHub
